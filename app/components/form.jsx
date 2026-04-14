@@ -144,7 +144,7 @@ export default function ContactSection() {
               <ContactDetail
                 icon={<Phone />}
                 label="Inquiries"
-                value="+977 9840221056"
+                value="+977 9861196616"
               />
               <ContactDetail
                 icon={<MapPin />}
