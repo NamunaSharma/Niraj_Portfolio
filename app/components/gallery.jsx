@@ -123,7 +123,7 @@ export default function PortfolioGrid() {
                   src={photo.src}
                   alt={photo.title}
                   fill
-                  className="object-cover transition-all duration-1000 group-hover:scale-110 group-hover:grayscale"
+                  className="object-contain transition-all duration-1000 group-hover:scale-110 group-hover:grayscale"
                 />
 
                 {/* Editorial Overlay */}

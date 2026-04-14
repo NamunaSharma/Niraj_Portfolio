@@ -35,7 +35,7 @@ export default function ContactSection() {
   });
 
   const TARGET_GMAIL = "ckemeke@gmail.com";
-  const WHATSAPP_NUMBER = "9840221056";
+  const WHATSAPP_NUMBER = "9861196616";
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
